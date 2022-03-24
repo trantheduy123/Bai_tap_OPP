@@ -1,0 +1,3 @@
+C:\Users\trant\source\repos\BT_OPP\OPP_BT8\OPP_BT8\obj\Debug\OPP_BT8.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT8\OPP_BT8\obj\Debug\OPP_BT8.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT8\OPP_BT8\obj\Debug\OPP_BT8.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\bin\Debug\OPP_KT_BT1.exe.config
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\bin\Debug\OPP_KT_BT1.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\bin\Debug\OPP_KT_BT1.pdb
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\obj\Debug\OPP_KT_BT1.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\obj\Debug\OPP_KT_BT1.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\obj\Debug\OPP_KT_BT1.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\obj\Debug\OPP_KT_BT1.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_KT_BT1\OPP_KT_BT1\obj\Debug\OPP_KT_BT1.pdb

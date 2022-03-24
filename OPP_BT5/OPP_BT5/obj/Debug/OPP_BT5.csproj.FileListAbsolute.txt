@@ -1,0 +1,8 @@
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\obj\Debug\OPP_BT5.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\obj\Debug\OPP_BT5.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\obj\Debug\OPP_BT5.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\bin\Debug\OPP_BT5.exe.config
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\bin\Debug\OPP_BT5.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\bin\Debug\OPP_BT5.pdb
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\obj\Debug\OPP_BT5.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_BT5\OPP_BT5\obj\Debug\OPP_BT5.pdb

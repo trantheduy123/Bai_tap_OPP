@@ -1,0 +1,8 @@
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\bin\Debug\OPP_interface.exe.config
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\bin\Debug\OPP_interface.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\bin\Debug\OPP_interface.pdb
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\obj\Debug\OPP_interface.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\obj\Debug\OPP_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\obj\Debug\OPP_interface.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\obj\Debug\OPP_interface.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_interface\OPP_interface\obj\Debug\OPP_interface.pdb

@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: OPP_BT8, Configuration: Debug Any CPU ------
+1>C:\Users\trant\source\repos\BT_OPP\OPP_BT8\OPP_BT8\Class1.cs(9,20,9,26): error CS0101: The namespace 'OPP_BT8' already contains a definition for 'Class1'
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

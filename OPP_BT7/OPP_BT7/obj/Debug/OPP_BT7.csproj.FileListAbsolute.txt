@@ -1,0 +1,8 @@
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\bin\Debug\OPP_BT7.exe.config
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\bin\Debug\OPP_BT7.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\bin\Debug\OPP_BT7.pdb
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\obj\Debug\OPP_BT7.csproj.AssemblyReference.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\obj\Debug\OPP_BT7.csproj.SuggestedBindingRedirects.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\obj\Debug\OPP_BT7.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\obj\Debug\OPP_BT7.exe
+C:\Users\trant\source\repos\BT_OPP\OPP_BT7\OPP_BT7\obj\Debug\OPP_BT7.pdb

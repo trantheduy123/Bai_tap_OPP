@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_BT6", "OPP_BT6\OPP_BT6.csproj", "{B900737E-7B31-46B3-B812-A39AECB588CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B900737E-7B31-46B3-B812-A39AECB588CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B900737E-7B31-46B3-B812-A39AECB588CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B900737E-7B31-46B3-B812-A39AECB588CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B900737E-7B31-46B3-B812-A39AECB588CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3B1C74-B4FF-4511-A74E-619C43AA4008}
+	EndGlobalSection
+EndGlobal
